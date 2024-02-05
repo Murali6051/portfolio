@@ -1,2 +1,2 @@
 Live link :
-https://saivinaykumarportfolio.netlify.app/
+https://muralikrishnakolaganiportfolio.netlify.app
